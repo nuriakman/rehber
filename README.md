@@ -5,11 +5,18 @@
 
 
 ## Öğrenim Hedefleri
+- [Temel Git](https://www.hostinger.web.tr/rehberler/github-kullanimi-basit-git-komutlari)
+- Temel Markdown
+- Composer
+- Editör Seçimi
+  - Sublime Text (Kurulum ve Temel Eklentileri)
+  - PHP Storm
 - Laravel
 - AJAX
 - SQLite
 - Vue
 - jQuery
+
 
 ## Çalışma Ortamı
 - Github
